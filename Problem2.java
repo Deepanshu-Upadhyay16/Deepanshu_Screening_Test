@@ -1,4 +1,4 @@
-// Problem-2.java
+
 
 import java.util.Scanner;
 
